@@ -49,7 +49,7 @@ void setup() {
 }
 
 void loop() {
-  WebSerial.println("Stand By!");                        // Print Context "Stand By!"
+  WebSerial.println("Stand By!");                     // Print Context "Stand By!"
   delay(2000);
 }
 ~~~
